@@ -20,3 +20,18 @@ Next JS 13.3 App that will Automatically generate Blog Post Content with ChatGPT
 
 - exploring Next.js file structure
 - css Grid vs css Flex box applications
+
+
+[Project](https://www.youtube.com/watch?v=pfHjxyeCHRs&t=5941s)
+
+ToDo:
+- [x] Nav bar
+- [x] Footer
+- [x] Css grid layout 
+- [x] prisma install
+- [x] server Component 
+- [ ] Next JS images
+- [ ] dynamic routes
+- [ ] impliment tiptap
+- [ ] add GPT
+- [ ] Deploy
